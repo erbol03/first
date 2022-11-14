@@ -1,0 +1,106 @@
+@import url("block.css");
+.technology{
+    position: absolute;
+    width: 1240px;
+    height: 500px;
+    left: 0px;
+    top: 1942px;
+    background: #FFFFFF;
+}
+
+.nav__conteiner{
+    display: flex;
+    margin: 0 30px;
+    position: absolute;
+    max-width: 1110px;
+    height: 226px;
+    left: 165px;
+    top: 170px;
+
+
+}
+.nav__header{
+    position: absolute;
+    width: 1110px;
+    height: 55px;
+    top:63px;
+    left: 165px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+.nav__block{
+    max-width: 225px;
+    left: 165px;
+    top: 170px;
+    height: 226px;
+    margin-left: 30px;
+   
+ 
+ 
+
+}
+.nav__null{
+    left: 69px;
+    width: 117px;
+    height: 120px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    color: rgba(16, 16, 16, 0.08);
+}
+
+ 
+.nav__frame__photo{
+    left: 23px;
+    top: -59px;
+    position: relative;
+    width: 80px;
+    height: 80px;
+   
+}
+.nav__text__header{
+    position: relative;
+    top: -54px;
+    left: 5px;
+    width: 123px;
+    height: 22px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+.nav__text__item{
+    
+    height: 51px;
+    left: 11px;
+    top: -50px;
+    position: relative;
+
+}
+
+
+
+    
+    
+   
+
+
+
+
+
+

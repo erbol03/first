@@ -1,0 +1,293 @@
+@import url("index.css");
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.slider{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    left: 0px;
+    top: 2442px;
+    background: #ED4C5C;
+}
+.row{
+    position: absolute;
+    width: 445px;
+    height: 195px;
+    left: 163px;
+    top: 122px;
+  
+
+}
+.row__parts{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    
+}
+.parts__text{
+  
+    top: 24px;
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+color: #FFFFFF;
+}
+.parts__img{
+    top: 116px;
+    left: 691px;
+    width: 543px;
+    height: 267px;
+    border-radius: 15px;
+    position: absolute;
+}
+.parts__video{
+    top: 94px;
+    left: 735px;
+    position: absolute;
+    width: 445px;
+    height: 311px;
+}
+.slider__vector{
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    left: 163px;
+    top: 357px;
+}
+
+
+
+
+/* contact beginner */
+
+
+
+.contact{
+    position: absolute;
+    width:100%;
+    height: 500px;
+    left: 0px;
+    top: 2942px;
+    background: #FFFFFF;
+
+
+}
+.contact__header{
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    top:117px;
+    left: 176px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+.contact__text{
+    position: absolute;
+    top: 213px;
+    left: 176px;
+    width: 434px;
+    height: 64px;
+    font-family: 'Lato';
+    position: absolute;
+    
+    text-align: justify;
+   
+        
+}
+.field{
+    position: absolute;
+    width: 540px;
+    height: 305px;
+    left: 735px;
+    top: 117px;
+    font-size: 13px;
+}
+.fild__first{
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+        
+    
+    
+}
+.field__second{
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    left: 285px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+
+}
+.field__third{
+    position: absolute;
+    top: 84px;
+    width: 540px;
+    height: 60px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+
+}
+.field__vier{
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    top: 168px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    text-align: justify;
+}
+.contact__slider{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    font-family: 'Segoe MDL2 Assets';
+    font-size: 14px;
+    line-height: 14px;
+    color: rgba(19, 39, 67, 0.5);
+    top: 191px;
+    left: 500px;
+
+}
+.cotact__button{
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    top: 255px;
+    color
+    : #FFFFFF;
+}
+
+
+
+
+
+
+/* footer beginner */
+
+
+
+
+
+
+
+footer{
+    position: absolute;
+    width:100%;
+    top: 467px;
+    height: 435px;
+    left: 0px;
+    background: #FAFAFA;
+}
+.footer__block{
+    position: absolute;
+    width: 259px;
+    height: 264px;
+    left: 161px;
+    top: 85px;
+}
+.row__header{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    left: 5px;
+   
+    color: #101010;
+}
+.row__nav{
+    position: absolute;
+width: 254px;
+height: 54px;
+top: 55px;
+left: 5;
+}
+.row__item{
+    top: 252px;
+    position: absolute;
+}
+.block__services{
+    position: absolute;
+width: 254px;
+height: 164px;
+left: 450px;
+top: 85px;
+}
+.block__touch{
+    position: absolute;
+    width: 122px;
+    height: 128px;
+    top:85px;
+    left: 734px;
+}
+.row__services{
+    position: absolute;
+   
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+.footer__img{
+    position: absolute;
+    top: 140px;
+    display: flex;
+    width: 14px;
+    height: 14px;
+   
+}
+.img__linkedin{
+    position: absolute;
+    left: 27px;
+
+}
+.img__twiter{
+    position: absolute;
+    left: 53px;
+}
+.support__header{
+    position: absolute;
+    left: 1022px;
+    top: 85px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+.footer__secure{
+    position: absolute;
+    width: 216px;
+    height: 31px;
+    left: 1028px;
+    top: 140px;
+}
+
+
+

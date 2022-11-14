@@ -1,0 +1,214 @@
+@import url("mein.css");
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.block__header{
+    position: absolute;
+    width: 445px;
+    height: 250px;
+    left: 165px;
+    top: 922px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+}
+.block__text{
+    position: absolute;
+width: 445px;
+height: 115px;
+left: 165px;
+top: 1053px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+
+
+text-align: justify;
+
+color: #000000;
+
+}
+.block__item{
+    position: absolute;
+width: 66px;
+height: 66px;
+left: 702px;
+top: 999px;
+border-radius: 50%;
+
+background: #ED4C5C;
+}
+.block__png{
+    position: absolute;
+width: 18px;
+height: 18px;
+left: 726px;
+top: 1023px;
+
+font-family: 'Segoe MDL2 Assets';
+font-size: 18px;
+line-height: 18px;
+
+
+
+color: #FFFFFF;
+}
+.block__nav{
+    position: absolute;
+   
+width: 445px;
+height: 311px;
+left: 735px;
+top: 876px;
+
+background: #C4C4C4;
+border-radius: 15px;
+}
+.block___learn{
+    position: absolute;
+width: 101px;
+height: 20px;
+left: 165px;
+top: 1152px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+
+
+text-align: justify;
+
+color: #ED4C5C;
+
+}
+.mein__header{
+    position: absolute;
+width: 1110px;
+height: 55px;
+left: 165px;
+top: 1345px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+
+color: #000000;
+}
+.features{
+    max-width: 1440px;
+    height: 660px;
+    top: 1282px;
+    position: absolute;
+    
+}
+.mein__header{
+    top: 63px;
+    left:165px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #000000;
+}
+.mein__block{
+    position: absolute;
+    width: 350px;
+    height: 355px;
+    left: 165px;
+    top: 181px;
+}
+.mein__block__first{
+    position: absolute;
+     width: 350px;
+    height: 355px;
+    left: 545px;
+    top: 181px;
+}
+.mein__block__second{
+    position: absolute;
+    width: 350px;
+    height: 355px;
+    left: 925px;
+    top: 181px;
+
+}
+.block__kard{
+    position: absolute;
+   
+    width: 293px;
+    height: 198px;
+    top: 168px;
+    left: 34px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+
+}
+.kard__header{
+    width: 229px;
+    height: 40px;
+    top: 33px;
+    left: 32px;
+    position: absolute;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+
+}
+.kard__text{
+    position: absolute;
+    top: 93px;
+    left: 32px;
+    width: 229px;
+    height: 57px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #101010;
+
+}
+.kard__buuton{
+    position: absolute;
+    top: 155px;
+    left: 20px;
+    height: 18px;
+    width: 253px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #ED4C5C;
+
+}
+
+
+
